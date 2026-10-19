@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the archived software release and the underlying Geider observational study if you use these experiments."
+title: "ERSEM-ALLOC: zero-dimensional phytoplankton allocation and irradiance sensitivity benchmarks"
+type: software
+authors:
+  - family-names: Banerjee
+    given-names: "Deep S."
+    affiliation: "Plymouth Marine Laboratory (PML)"
+version: "0.1.0-development"
+keywords:
+  - phytoplankton physiology
+  - ERSEM
+  - FABM
+  - resource allocation
+  - photosynthesis irradiance
+  - Geider

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+*.log
+*.pid
+*.tmp
+*.tar.gz
+*.zip
+# Never accidentally push compiled code/libraries or large run products.
+*.so
+*.a
+*.o
+*.mod
+*.nc
+# The archived source/build is an external dependency, not a tracked repo copy.

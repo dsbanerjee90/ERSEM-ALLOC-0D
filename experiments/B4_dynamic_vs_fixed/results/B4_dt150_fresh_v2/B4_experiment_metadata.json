@@ -1,0 +1,25 @@
+{
+  "experiment": "B4 dynamic-vs-fixed P1 reference allocation",
+  "duration_days": 7.0,
+  "dt_seconds": 150.0,
+  "lights": [
+    20.0,
+    100.0
+  ],
+  "treatments": [
+    "low_N",
+    "low_P",
+    "low_NP"
+  ],
+  "reference_fC": 0.24,
+  "free_internal_states": true,
+  "bath": {
+    "NO3": "specified by treatment",
+    "NH4": 0.001,
+    "PO4": "specified by treatment",
+    "Si": 4.5
+  },
+  "no_original_input_changes": true,
+  "numerics": "forward Euler; not NEMO",
+  "signed_benthic_state": "G2/o_deep allowed negative by source"
+}

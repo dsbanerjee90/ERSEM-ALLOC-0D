@@ -1,0 +1,100 @@
+{
+  "B4_SW100_low_NP_dynamic.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW100_low_NP_fixed_ref.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW100_low_N_dynamic.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW100_low_N_fixed_ref.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW100_low_P_dynamic.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW100_low_P_fixed_ref.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW20_low_NP_dynamic.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW20_low_NP_fixed_ref.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW20_low_N_dynamic.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW20_low_N_fixed_ref.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW20_low_P_dynamic.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_SW20_low_P_fixed_ref.csv": {
+    "rows": 169,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_all_arm_summary.csv": {
+    "rows": 12,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  },
+  "B4_paired_comparison_summary.csv": {
+    "rows": 6,
+    "max_absolute_difference": 0.0,
+    "mismatches": 0,
+    "passed": true,
+    "examples": []
+  }
+}

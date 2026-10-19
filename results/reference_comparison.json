@@ -1,0 +1,27 @@
+{
+  "relative_tolerance": 2e-06,
+  "absolute_tolerance": 1e-08,
+  "comparisons": {
+    "geider1997_ersem_balanced_chlc_model.csv": {
+      "rows": 48,
+      "max_abs_difference": 0.0,
+      "max_relative_difference": 0.0,
+      "mismatch_values": 0,
+      "passed": true
+    },
+    "ersem_alloc_fixed_fc_sensitivity.csv": {
+      "rows": 192,
+      "max_abs_difference": 0.0,
+      "max_relative_difference": 0.0,
+      "mismatch_values": 0,
+      "passed": true
+    },
+    "ersem_alloc_p1_photosynthesis_irradiance.csv": {
+      "rows": 564,
+      "max_abs_difference": 0.0,
+      "max_relative_difference": 0.0,
+      "mismatch_values": 0,
+      "passed": true
+    }
+  }
+}

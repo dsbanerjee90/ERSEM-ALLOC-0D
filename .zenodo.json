@@ -1,0 +1,23 @@
+{
+  "title": "ERSEM-ALLOC: zero-dimensional phytoplankton allocation and irradiance sensitivity benchmarks",
+  "upload_type": "software",
+  "description": "Reproducible PyFABM/ERSEM-ALLOC 0D physiological sensitivity experiments: prescribed carbon-fixation allocation fraction, instantaneous balanced chlorophyll-to-carbon response to irradiance, and gross fixation P-I curves. Digitised experimental context from Geider et al. (1997), Fig. 3A. The experiments do not validate prognostic allocation. Developed with support of ESA; ESA Climate Assessment and Model Parameterisation (CAMP): <a href=\"https://climate.esa.int/en/observations-and-modelling/camp/\">Official ESA CAMP project webpage</a>. Requires a compatible externally versioned compiled FABM/ERSEM/PyFABM installation.",
+  "creators": [
+    {
+      "name": "Banerjee, Deep S.",
+      "affiliation": "Plymouth Marine Laboratory (PML)"
+    }
+  ],
+  "keywords": [
+    "ERSEM",
+    "FABM",
+    "PML",
+    "phytoplankton",
+    "0D",
+    "photosynthesis-irradiance",
+    "resource allocation",
+    "ESA CAMP"
+  ],
+  "language": "eng",
+  "notes": "Draft metadata. Review licenses, creator list, software citation and compiled model source revision before Zenodo release."
+}
